@@ -1,4 +1,4 @@
-job('dsl-job-1'){
+job('dsl-job-2'){
 
 steps{
 shell(""" echo "i am running on dsl-job-2"
